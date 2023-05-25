@@ -1,3 +1,7 @@
+[![Header](./path/to/your/header-image.png)](https://img.freepik.com/premium-vector/programming-typographic-header-students-learn-computer-science_277904-15137.jpg?w=996)
+
+
+
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
